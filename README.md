@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jrvi
 - 👀 I’m interested in learning new things
-- 🎒 I’m currently learning computer science at university of jyväskylä
+- 🎒 I’m currently learning technology management at university of jyväskylä
 - 📫 How to reach me juho.jaervi@gmail.com
 - 💼 Currently working at Solteq
 
